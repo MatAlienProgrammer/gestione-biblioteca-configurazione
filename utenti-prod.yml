@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 utenti:
-  message: "Welcome to utenti related production APIs "
+  message: "Welcome to utenti related prod APIs "
   contactDetails:
     name: "John Doe - Production Developer"
     email: "john@eazybank.com"
