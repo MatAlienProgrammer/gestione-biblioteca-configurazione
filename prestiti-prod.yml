@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 prestiti:
-  message: "Welcome to prestiti related webhook prod APIs "
+  message: "Welcome to prestiti related webhook Production APIs "
   contactDetails:
     name: "John Doe - Production Developer"
     email: "john@eazybank.com"
