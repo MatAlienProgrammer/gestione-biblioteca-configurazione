@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 libri:
-  message: "Welcome to libri related Production APIs "
+  message: "Welcome to libri related prod APIs "
   contactDetails:
     name: "John Doe - Production Developer"
     email: "{cipher}b2a44ae3d99782ede5d9a134addd86281015062a293e2ae90a2959e8861a54ac2ac5fa2f2df5ca2b38c80c3d4a56ba56"
